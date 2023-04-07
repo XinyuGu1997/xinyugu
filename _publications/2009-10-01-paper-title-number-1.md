@@ -2,7 +2,7 @@
 title: "Exploring the F-actin/CPEB3 interaction and its possible role in the molecular mechanism of long-term memory"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-1
-excerpt: 
+excerpt: 'xxx'
 date: 2020
 venue: 'PNAS'
 paperurl: 'http://xinyugu1997.github.io/files/paper1.pdf'
