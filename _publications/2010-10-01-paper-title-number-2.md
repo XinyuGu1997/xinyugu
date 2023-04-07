@@ -1,7 +1,7 @@
 ---
 title: "Vectorial channeling as a mechanism for translational control by functional prions and condensates."
 collection: publications
-<!-- permalink: /publication/2010-10-01-paper-title-number-2 -->
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'xxx'
 date: 2021
 venue: 'PNAS'
