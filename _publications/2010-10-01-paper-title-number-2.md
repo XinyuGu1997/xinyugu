@@ -8,4 +8,4 @@ venue: 'PNAS'
 paperurl: 'http://xinyugu1997.github.io/files/paper2.pdf'
 citation: 'Gu, X., Schafer, N. P., & Wolynes, P. G. (2021). Proceedings of the National Academy of Sciences, 118(47).'
 ---
-<!-- [Download paper here](http://xinyugu1997.github.io/files/paper2.pdf) -->
+[Download paper here](http://xinyugu1997.github.io/files/paper2.pdf)
