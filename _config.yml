@@ -11,9 +11,9 @@ title                    : "Xinyu Gu"
 title_separator          : "-"
 name                     : &name "Xinyu Gu"
 description              : &description "Postdoc Researcher at Rice University"
-url                      : https://xinyu_gu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xinyugu1997.github.io/xinyugu/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Xinyu-Gu/xinyu_gu.github.io"
+repository               : "XinyuGu1997/xinyugu"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
