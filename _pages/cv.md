@@ -11,49 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemical Physics, University of Science and Technology of China (USTC), 2018
+* Ph.D in Chemistry, Rice University, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Intern
+  * University of Wisconsin, Madison
+  * Supervisor: Professor Qiang Cui
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2018: Research Intern
+  * University of Science and Technology of China
+  * Supervisor: Professor Zhonghuai Hou
+
+* 2018-2022: Research Assistant
+  * Rice University
+  * Supervisor: Professor Peter G. Wolynes
+  
+* 2022-present: Postdoc Researcher
+  * Rice University
+  * Supervisor: Professor Peter G. Wolynes  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* python; OpenMM; GROMACS; LAMMPS; Matlab; COMSOL; pytorch; C Language
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Gu, X., Schafer, N. P., Wang, Q., Song, S. S., Chen, M., Waxham, M. N., & Wolynes, P. G. (2020). Exploring the F-actin/CPEB3 interaction and its possible role in the molecular mechanism of long-term memory. Proceedings of the National Academy of Sciences, 117(36), 22128-22134.
+* Lu, W., Bueno, C., Schafer, N. P., Moller, J., Jin, S., Chen, X., Chen, M., Gu, X., Davtyan, A., De Pablo, J. J. & Wolynes, P. G. (2021). OpenAWSEM with Open3SPN2: A fast, flexible, and accessible framework for large-scale coarse-grained biomolecular simulations. PLOS Computational Biology, 17(2), e1008308.
+* Gu, X., Schafer, N. P., & Wolynes, P. G. (2021). Vectorial channeling as a mechanism for translational control by functional prions and condensates. Proceedings of the National Academy of Sciences, 118(47).
+* Gu, X., Schafer, N. P., Bueno, C., Lu, W., & Wolynes, P. G. (2022). A structural dynamics model for how CPEB3 binding to SUMO2 can regulate translational control in dendritic spines. PLOS Computational Biology (just accepted).
+* Sahin, C., Motso, A., Gu, X., Feyrer, H., Lama, D., Arndt, T., ... & Landreh, M. (2022). Mass spectrometry of RNA-binding proteins during LLPS reveals distinct assembly mechanisms and droplet architectures. bioRxiv.
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Mentor in a NSF REU program: Frontiers in Science program (CTBP, Rice U)                   > May. 2022-Aug.2022
+* Teaching assistant of general chemistry lab (chem 123＆124), Rice University	              > Jan.2019-Dec.2019
+* Teaching assistant of honors general chemistry lab (chem 153), Rice University             > Sep.2018-Dec.2018
+* Teaching assistant of Chemical Kinetics I, USTC                                         	 > Feb.2018-Apr.2018
+* Teaching assistant of Physical Chemistry II, USTC                                          > Feb.2017-Jun.2017
