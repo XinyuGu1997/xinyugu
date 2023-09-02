@@ -28,9 +28,13 @@ Work experience
   * Rice University
   * Supervisor: Professor Peter G. Wolynes
   
-* 2022-present: Postdoc Researcher
+* 2022-2023: Postdoc Researcher
   * Rice University
-  * Supervisor: Professor Peter G. Wolynes  
+  * Supervisor: Professor Peter G. Wolynes
+
+* 2023-present: Postdoc Fellow
+  * University of Maryland
+  * Supervisor: Professor Pratyush Tiwary
   
 Skills
 ======
@@ -48,7 +52,7 @@ Publications
 Teaching
 ======
 * Mentor in a NSF REU program: Frontiers in Science program (CTBP, Rice U)                   > May. 2022-Aug.2022
-* Teaching assistant of general chemistry lab (chem 123＆124), Rice University	              > Jan.2019-Dec.2019
+* Teaching assistant of general chemistry lab (chem 123＆124), Rice University	             > Jan.2019-Dec.2019
 * Teaching assistant of honors general chemistry lab (chem 153), Rice University             > Sep.2018-Dec.2018
 * Teaching assistant of Chemical Kinetics I, USTC                                         	 > Feb.2018-Apr.2018
 * Teaching assistant of Physical Chemistry II, USTC                                          > Feb.2017-Jun.2017
