@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xinyu Gu"
   avatar           : "profile.png"
-  bio              : "Postdoc in the Wolynes Lab at Rice University. Joining University of Maryland in September 2023 as IPST Postdoc Fellow in Artificial Chemical Intelligence to work with the Tiwary lab"
+  bio              : "IPST Postdoc Fellow in Artificial Chemical Intelligence to work with the Tiwary lab at University of Maryland "
   location         : "Houston, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : xg23@rice.edu
+  email            : xg23@umd.edu
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
